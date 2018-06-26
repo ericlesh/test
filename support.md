@@ -2,16 +2,11 @@
 2. To verify &#39;Username&#39; equals &#39;Contact email&#39; for users, open the CLAMP site and log in with your AD3 credentials.
   a. [https://portal.activedisclosure.com/Portal/](https://portal.activedisclosure.com/Portal/)
 3. Once logged in, you will see the Home Screen below:
-4. To check and possibly update the user(s), navigate to the existing Account
+4. To check and possibly update the user(s), navigate to the existing Account<br>
   a. Click on &quot;Admin Console&quot;
-5.
-  a. Enter the company name and click Enter
-6.
-  a. Click on the arrow next to the account name to navigate to the Account Details
-7.
-  a. The Username for the users in the account will need to be checked on this screen.  If any do not have the company email (like first.last@companyname.com) as the Username, they will need to be edited manually.
-8.
-  a. To edit, click the three dots at the right edge of the user line, then click &quot;Edit&quot; in the drop-down box.
-9.
-  a. Edit the users &#39;Username&#39; to match &#39;Contact email&#39; like this:
-  b. Edit any of the other users in the same way if necessary.
+5. Enter the company name and click Enter
+6. Click on the arrow next to the account name to navigate to the Account Details
+7. The Username for the users in the account will need to be checked on this screen.  If any do not have the company email (like first.last@companyname.com) as the Username, they will need to be edited manually.
+8. To edit, click the three dots at the right edge of the user line, then click &quot;Edit&quot; in the drop-down box.
+9. Edit the users &#39;Username&#39; to match &#39;Contact email&#39; like this:<br>
+  a. Edit any of the other users in the same way if necessary.
